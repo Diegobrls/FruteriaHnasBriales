@@ -6,7 +6,7 @@
 * [Introducción](#Introducción)
 * [Laravel](#Laravel)
 * [Uso de la aplicación](#Uso_de_la_Aplicación)
-* [Base de Datos](#Laravel)
+* [Base de Datos](#Base_de_Datos)
 
 ## Introducción
 "Cestas Frutería Hnas. Briales" es una aplicación web que te permite comprar cestas de regalo personalizadas con una amplia variedad de productos frescos y deliciosos. Puedes crear, editar y borrar tus propias cestas, así como encargarlas para otras personas o para ti mismo. La aplicación también cuenta con un catálogo de cestas disponibles para su compra, un sistema de autenticación y registro desarrollado con Laravel Breeze, y una interfaz amigable para gestionar tus pedidos y cestas.
@@ -28,12 +28,12 @@ En el proyecto "Cestas Frutería Hnas. Briales", hemos utilizado Laravel como el
 
 Para utilizar la aplicación "Cestas Frutería Hnas. Briales", sigue estos pasos:
 
-*[Registro/Login]: Si eres un nuevo usuario, regístrate en la plataforma proporcionando tu nombre, correo electrónico y contraseña. Si ya tienes una cuenta, inicia sesión con tus credenciales.
-*[Explora el Catálogo]: Una vez iniciada la sesión, navega por el catálogo de cestas disponibles para comprar. Puedes ver detalles como el nombre, precio, descripción y cantidad de elementos de cada cesta.
-*[Compra una Cesta]: Selecciona la cesta que deseas comprar y sigue los pasos para realizar el pedido. Completa el formulario con la dirección de entrega, destinatario, nota adicional, fecha y horario de entrega.
-*[Gestiona tus Pedidos]: Una vez realizado el pedido, puedes verlo en la sección "Mis Pedidos" para hacer un seguimiento del estado de tu pedido.
-*[Crea tus Propias Cestas]: Si lo deseas, puedes crear, editar y borrar tus propias cestas personalizadas en la sección "Mis Cestas". Personaliza el nombre, descripción, precio y elementos de tu cesta.
-*[Actualiza tu Perfil]: En la sección de usuario, puedes actualizar tu información de perfil, como el correo electrónico y la contraseña.
+* [Registro/Login]: Si eres un nuevo usuario, regístrate en la plataforma proporcionando tu nombre, correo electrónico y contraseña. Si ya tienes una cuenta, inicia sesión con tus credenciales.
+* [Explora el Catálogo]: Una vez iniciada la sesión, navega por el catálogo de cestas disponibles para comprar. Puedes ver detalles como el nombre, precio, descripción y cantidad de elementos de cada cesta.
+* [Compra una Cesta]: Selecciona la cesta que deseas comprar y sigue los pasos para realizar el pedido. Completa el formulario con la dirección de entrega, destinatario, nota adicional, fecha y horario de entrega.
+* [Gestiona tus Pedidos]: Una vez realizado el pedido, puedes verlo en la sección "Mis Pedidos" para hacer un seguimiento del estado de tu pedido.
+* [Crea tus Propias Cestas]: Si lo deseas, puedes crear, editar y borrar tus propias cestas personalizadas en la sección "Mis Cestas". Personaliza el nombre, descripción, precio y elementos de tu cesta.
+* [Actualiza tu Perfil]: En la sección de usuario, puedes actualizar tu información de perfil, como el correo electrónico y la contraseña.
 
 ## Base de Datos
 La base de datos se compone de varias tablas que almacenan información sobre usuarios, cestas, pedidos, elementos y las relaciones entre ellos. A continuación se detallan las tablas principales y sus columnas, así como las relaciones entre ellas:

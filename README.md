@@ -5,21 +5,35 @@
 ## Contenido
 * [Introducción](#Introducción)
 * [Laravel](#Laravel)
-* [Breeze](#Laravel)
-* [Blade](#Laravel)
+* [Uso de la aplicación](#Uso_de_la_Aplicación)
 * [Base de Datos](#Laravel)
 
 ## Introducción
 "Cestas Frutería Hnas. Briales" es una aplicación web que te permite comprar cestas de regalo personalizadas con una amplia variedad de productos frescos y deliciosos. Puedes crear, editar y borrar tus propias cestas, así como encargarlas para otras personas o para ti mismo. La aplicación también cuenta con un catálogo de cestas disponibles para su compra, un sistema de autenticación y registro desarrollado con Laravel Breeze, y una interfaz amigable para gestionar tus pedidos y cestas.
 
 ## Laravel
-Laravel es un framework de código abierto para el desarrollo de aplicaciones web con PHP. Ofrece una sintaxis elegante y expresiva que te permite escribir código de forma rápida y sencilla. Laravel incluye una amplia gama de características poderosas, como el enrutamiento flexible, el sistema de plantillas Blade, la gestión de bases de datos con Eloquent ORM, la autenticación integrada y mucho más.
+Laravel es un framework de desarrollo web PHP que sigue el patrón de arquitectura MVC (Modelo-Vista-Controlador). Ofrece una estructura robusta y flexible para construir aplicaciones web de manera eficiente y escalable. Algunas de las características principales de Laravel incluyen:
 
-## Breeze
-Breeze es un paquete de inicio oficial de Laravel que proporciona una configuración de autenticación mínima y funcional para tu aplicación. Con Breeze, puedes añadir fácilmente un sistema de registro, inicio de sesión, restablecimiento de contraseña y verificación de correo electrónico a tu aplicación Laravel de forma rápida y sencilla.
+| Componente  | Descripción |
+| ------------- | ------------- |
+| Routing  | Sistema de enrutamiento flexible que permite definir rutas para manejar solicitudes HTTP.  |
+| Blade  | Motor de plantillas que simplifica la creación de vistas mediante directivas y sintaxis sencilla.  |
+| Eloquent ORM | Capa de abstracción de la base de datos que facilita la interacción con la base de datos a través de modelos PHP. |
+| Middleware | Funciones que se ejecutan antes y después de las solicitudes HTTP, útiles para la autenticación, autorización, y otras tareas de manejo de solicitudes. |
+| Artisan | Interfaz de línea de comandos (CLI) que proporciona herramientas para realizar tareas comunes de desarrollo, como migraciones de base de datos, generación de código, y más. |
+	
+En el proyecto "Cestas Frutería Hnas. Briales", hemos utilizado Laravel como el framework principal para el desarrollo de la aplicación web. Hemos aprovechado las funcionalidades proporcionadas por Laravel, como el sistema de enrutamiento para definir las rutas de la aplicación, el motor de plantillas Blade para crear vistas dinámicas, y Eloquent ORM para interactuar con la base de datos de manera intuitiva y eficiente.
 
-## Blade
-Blade es el motor de plantillas incluido en Laravel que te permite escribir código HTML de forma sencilla y expresiva. Blade ofrece una sintaxis intuitiva y potente que te permite trabajar con datos dinámicos, incluir subvistas, definir estructuras de control y mucho más.
+## Uso de la Aplicación
+
+Para utilizar la aplicación "Cestas Frutería Hnas. Briales", sigue estos pasos:
+
+*[Registro/Login]: Si eres un nuevo usuario, regístrate en la plataforma proporcionando tu nombre, correo electrónico y contraseña. Si ya tienes una cuenta, inicia sesión con tus credenciales.
+*[Explora el Catálogo]: Una vez iniciada la sesión, navega por el catálogo de cestas disponibles para comprar. Puedes ver detalles como el nombre, precio, descripción y cantidad de elementos de cada cesta.
+*[Compra una Cesta]: Selecciona la cesta que deseas comprar y sigue los pasos para realizar el pedido. Completa el formulario con la dirección de entrega, destinatario, nota adicional, fecha y horario de entrega.
+*[Gestiona tus Pedidos]: Una vez realizado el pedido, puedes verlo en la sección "Mis Pedidos" para hacer un seguimiento del estado de tu pedido.
+*[Crea tus Propias Cestas]: Si lo deseas, puedes crear, editar y borrar tus propias cestas personalizadas en la sección "Mis Cestas". Personaliza el nombre, descripción, precio y elementos de tu cesta.
+*[Actualiza tu Perfil]: En la sección de usuario, puedes actualizar tu información de perfil, como el correo electrónico y la contraseña.
 
 ## Base de Datos
 La base de datos se compone de varias tablas que almacenan información sobre usuarios, cestas, pedidos, elementos y las relaciones entre ellos. A continuación se detallan las tablas principales y sus columnas, así como las relaciones entre ellas:

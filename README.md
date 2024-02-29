@@ -28,12 +28,12 @@ En el proyecto "Cestas Frutería Hnas. Briales", hemos utilizado Laravel como el
 
 Para utilizar la aplicación "Cestas Frutería Hnas. Briales", sigue estos pasos:
 
-1. [Registro/Login]: Si eres un nuevo usuario, regístrate en la plataforma proporcionando tu nombre, correo electrónico y contraseña. Si ya tienes una cuenta, inicia sesión con tus credenciales.
-2. [Explora el Catálogo]: Una vez iniciada la sesión, navega por el catálogo de cestas disponibles para comprar. Puedes ver detalles como el nombre, precio, descripción y cantidad de elementos de cada cesta.
-3. [Compra una Cesta]: Selecciona la cesta que deseas comprar y sigue los pasos para realizar el pedido. Completa el formulario con la dirección de entrega, destinatario, nota adicional, fecha y horario de entrega.
-4. [Gestiona tus Pedidos]: Una vez realizado el pedido, puedes verlo en la sección "Mis Pedidos" para hacer un seguimiento del estado de tu pedido.
-5. [Crea tus Propias Cestas]: Si lo deseas, puedes crear, editar y borrar tus propias cestas personalizadas en la sección "Mis Cestas". Personaliza el nombre, descripción, precio y elementos de tu cesta.
-6. [Actualiza tu Perfil]: En la sección de usuario, puedes actualizar tu información de perfil, como el correo electrónico y la contraseña.
+1. **Registro/Login**: Si eres un nuevo usuario, regístrate en la plataforma proporcionando tu nombre, correo electrónico y contraseña. Si ya tienes una cuenta, inicia sesión con tus credenciales.
+2. **Explora el Catálogo**: Una vez iniciada la sesión, navega por el catálogo de cestas disponibles para comprar. Puedes ver detalles como el nombre, precio, descripción y cantidad de elementos de cada cesta.
+3. **Compra una Cesta**: Selecciona la cesta que deseas comprar y sigue los pasos para realizar el pedido. Completa el formulario con la dirección de entrega, destinatario, nota adicional, fecha y horario de entrega.
+4. **Gestiona tus Pedidos**: Una vez realizado el pedido, puedes verlo en la sección "Mis Pedidos" para hacer un seguimiento del estado de tu pedido.
+5. **Crea tus Propias Cestas**: Si lo deseas, puedes crear, editar y borrar tus propias cestas personalizadas en la sección "Mis Cestas". Personaliza el nombre, descripción, precio y elementos de tu cesta.
+6. **Actualiza tu Perfil**: En la sección de usuario, puedes actualizar tu información de perfil, como el correo electrónico y la contraseña.
 
 ## Base de Datos
 La base de datos se compone de varias tablas que almacenan información sobre usuarios, cestas, pedidos, elementos y las relaciones entre ellos. A continuación se detallan las tablas principales y sus columnas, así como las relaciones entre ellas:

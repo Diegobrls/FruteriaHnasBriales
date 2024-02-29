@@ -5,8 +5,8 @@
 ## Contenido
 * [Introducción](#Introducción)
 * [Laravel](#Laravel)
-* [Uso de la aplicación](#Uso_de_la_Aplicación)
-* [Base de Datos](#Base_de_Datos)
+* [Uso de la aplicación](#Uso-de-la-Aplicación)
+* [Base de Datos](#Base-de-Datos)
 
 ## Introducción
 "Cestas Frutería Hnas. Briales" es una aplicación web que te permite comprar cestas de regalo personalizadas con una amplia variedad de productos frescos y deliciosos. Puedes crear, editar y borrar tus propias cestas, así como encargarlas para otras personas o para ti mismo. La aplicación también cuenta con un catálogo de cestas disponibles para su compra, un sistema de autenticación y registro desarrollado con Laravel Breeze, y una interfaz amigable para gestionar tus pedidos y cestas.

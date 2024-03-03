@@ -2,6 +2,8 @@
 # Cestas Frutería Hnas. Briales
 ¡Bienvenido al repositorio de la aplicación "Cestas Frutería Hnas. Briales"! Esta es una aplicación web desarrollada con Laravel que te permite comprar cestas de regalo personalizadas que contienen frutas y productos varios como chocolate o vino.
 
+(Información importante: Faltan las carpetas de node_modules y vendor por problemas con github)
+
 ## Contenido
 * [Introducción](#Introducción)
 * [Laravel](#Laravel)

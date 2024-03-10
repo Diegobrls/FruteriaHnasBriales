@@ -1,0 +1,2 @@
+<img src="https://www.fruteriahermanasbriales.com/uploads/fCip5w6h/logo-Fruteria1.jpg" alt="Logo" style="width: 400px; height: auto;">
+<?php /**PATH C:\Users\Usuario\Desktop\Docker compose\proyecto_laravel\fruteriaHermanasBriales\resources\views/components/application-logo.blade.php ENDPATH**/ ?>

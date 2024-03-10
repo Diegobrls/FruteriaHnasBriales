@@ -37,6 +37,8 @@ Para utilizar la aplicación "Cestas Frutería Hnas. Briales", sigue estos pasos
 4. **Gestiona tus Pedidos**: Una vez realizado el pedido, puedes verlo en la sección "Mis Pedidos" para hacer un seguimiento del estado de tu pedido.
 5. **Crea tus Propias Cestas**: Si lo deseas, puedes crear, editar y borrar tus propias cestas personalizadas en la sección "Mis Cestas". Personaliza el nombre, descripción, precio y elementos de tu cesta.
 6. **Actualiza tu Perfil**: En la sección de usuario, puedes actualizar tu información de perfil, como el correo electrónico y la contraseña.
+![crear-cesta-frut](https://github.com/Diegobrls/FruteriaHnasBriales/assets/105086398/2ae4a9c0-bbb8-4851-a01c-cd60b860359a)
+
 
 ## Base de Datos
 La base de datos se compone de varias tablas que almacenan información sobre usuarios, cestas, pedidos, elementos y las relaciones entre ellos. A continuación se detallan las tablas principales y sus columnas, así como las relaciones entre ellas:
